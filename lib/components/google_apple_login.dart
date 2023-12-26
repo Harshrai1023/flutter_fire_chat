@@ -1,5 +1,7 @@
+
 import 'package:flutter/material.dart';
-import 'package:flutter_fire_chat/components/square_tile.dart';
+
+import 'square_tile.dart';
 
 class GoogleAppleLogin extends StatelessWidget {
   const GoogleAppleLogin({super.key});

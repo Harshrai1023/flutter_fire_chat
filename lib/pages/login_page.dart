@@ -1,10 +1,11 @@
+
 import 'package:flutter/material.dart';
-import 'package:flutter_fire_chat/components/my_button.dart';
-import 'package:flutter_fire_chat/components/my_textfield.dart';
-import 'package:flutter_fire_chat/services/auth/auth_service.dart';
 import 'package:provider/provider.dart';
 
 import '../components/google_apple_login.dart';
+import '../components/my_button.dart';
+import '../components/my_textfield.dart';
+import '../services/auth/auth_service.dart';
 
 class LoginPage extends StatefulWidget {
   final void Function()? onTap;

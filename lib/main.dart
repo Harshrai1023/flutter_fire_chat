@@ -1,9 +1,9 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_fire_chat/firebase_options.dart';
-import 'package:flutter_fire_chat/services/auth/auth_gate.dart';
-import 'package:flutter_fire_chat/services/auth/auth_service.dart';
 import 'package:provider/provider.dart';
+import 'firebase_options.dart';
+import 'services/auth/auth_gate.dart';
+import 'services/auth/auth_service.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

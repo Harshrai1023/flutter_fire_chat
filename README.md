@@ -15,10 +15,10 @@ Flutter Fire Chat is a dynamic and versatile real-time cross-platform chat appli
 
 ## Screenshots
 <p float="left">
-  <img src="https://github.com/Harshrai1023/flutter_fire_chat/blob/main/screenshots/Screenshot_Signup.png" width="24%"/>
-  <img src="https://github.com/Harshrai1023/flutter_fire_chat/blob/main/screenshots/Screenshot_Signup.png" width="24%" />
-  <img src="https://github.com/Harshrai1023/flutter_fire_chat/blob/main/screenshots/Screenshot_Homepage.png" width="24%" />
-  <img src="https://github.com/Harshrai1023/flutter_fire_chat/blob/main/screenshots/Screenshot_Chatpage.png" width="24%" />
+  <img src="screenshots/Screenshot_Login.png" width="24%"/>
+  <img src="screenshots/Screenshot_Signup.png" width="24%" />
+  <img src="screenshots/Screenshot_Homepage.png" width="24%" />
+  <img src="screenshots/Screenshot_Chatpage.png" width="24%" />
 </p>
 
 ## Installation
